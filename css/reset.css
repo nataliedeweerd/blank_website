@@ -55,3 +55,4 @@ i,em{font-style: italic;}
 p{padding-bottom:15px;}
 ul{display: block;list-style-type: disc;padding-left: 40px;}
 ol{display: block;list-style-type: decimal;padding-left: 40px;}
+button {-webkit-appearance: none;border: 0;}
