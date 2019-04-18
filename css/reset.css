@@ -56,5 +56,5 @@ p{padding-bottom:15px;}
 ul{display: block;list-style-type: disc;padding-left: 40px;}
 ol{display: block;list-style-type: decimal;padding-left: 40px;}
 button {-webkit-appearance: none;border: 0;}
-button:focus {outline: 0;}
+button:focus, select:focus {outline: 0;}
 input[type="checkbox"] {margin: 0;}
