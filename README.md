@@ -10,4 +10,4 @@ Just click download! There's no PHP so no need for a web server.
 
 * **Natalie de Weerd** - *Initial work* - [nataliedeweerd](https://github.com/nataliedeweerd)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/nataliedeweerd/blank_website/graphs/contributors) who participated in this project.
